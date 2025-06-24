@@ -54,3 +54,12 @@ orkflow.png)
    ```bash
    git clone https://github.com/your-username/automated-weather-n8n.git
    cd automated-weather-n8n
+
+🌤️ Weather Report for New York
+
+Condition: Clear Sky
+Temperature: 72°F
+Humidity: 45%
+Wind: 10 mph
+
+
