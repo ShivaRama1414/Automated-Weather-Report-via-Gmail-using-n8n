@@ -27,7 +27,8 @@ This project uses [n8n](https://n8n.io/), an open-source workflow automation too
 
 ## 📸 Workflow Screenshot
 
-![Workflow Screenshot](./screenshots/workflow.png)
+![Workflow Screenshot](./screenshots/w<img width="1466" alt="Automated Daily Weather Notification System using n8n" src="https://github.com/user-attachments/assets/0b7963ab-38f6-4fbd-a82e-4ac77a928848" />
+orkflow.png)
 
 ---
 
